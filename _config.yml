@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "吴茵十 Yinshi Wu"
-  pronouns         : "she"  
+  pronouns         : # "he or she."  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dalian, Shenzhen, China"
   employer         : "Dalian University of Technology"
