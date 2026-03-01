@@ -10,12 +10,6 @@ redirect_from:
 I am a Master's student at Dalian University of Technology.  
 My research focuses on surface electromyography, neural interface systems, and human-machine interaction.
 
----
-permalink: /
-title: "Education"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+## Education
+M.S. in 
+B.E. in 
