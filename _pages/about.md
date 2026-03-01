@@ -16,3 +16,9 @@ My research focuses on surface electromyography, neural interface systems, and h
 
 - **Bachelor of Engineering (B.E.)** in Mechanical Design, Manufacturing, and Automation  
   Dalian University of Technology, China, 2019 - 2023
+
+## Awarods
+- Second-Class Scholarship, Bachelor’s Program, 2021
+- Master’s First-Class Scholarship, 2023  
+- Master’s First-Class Scholarship, 2024  
+- Master’s First-Class Scholarship, 2025
