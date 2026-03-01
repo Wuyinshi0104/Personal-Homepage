@@ -11,5 +11,8 @@ I am a Master's student at Dalian University of Technology.
 My research focuses on surface electromyography, neural interface systems, and human-machine interaction.
 
 ## Education
-M.S. in 
-B.E. in 
+- **Master of Science (M.S.)** in Mechanical Engineering  
+  Dalian University of Technology, China, 2023 - Present  
+
+- **Bachelor of Engineering (B.E.)** in Mechanical Design, Manufacturing, and Automation  
+  Dalian University of Technology, China, 2019 - 2023
