@@ -18,7 +18,7 @@ My research focuses on surface electromyography, neural interface systems, and h
   Dalian University of Technology, China, 2019 - 2023
 
 ## Awarods
-- Second-Class Scholarship, Bachelor’s Program, 2021
-- Master’s First-Class Scholarship, 2023  
-- Master’s First-Class Scholarship, 2024  
-- Master’s First-Class Scholarship, 2025
+- Second-Class Scholarship, Bachelor’s Program (Dalian University of Technology), 2021
+- Master’s First-Class Scholarship (Dalian University of Technology), 2023  
+- Master’s First-Class Scholarship (Dalian University of Technology), 2024  
+- Master’s First-Class Scholarship (Dalian University of Technology), 2025
